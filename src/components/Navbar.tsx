@@ -34,7 +34,7 @@ const Navbar = () => {
             className="h-20 w-20 bg-orange-500 rounded-full flex items-center justify-center"
           >
             <span className="text-white font-bold text-lg">
-              <img src="../../logo.jpg" alt="logo" />
+              <img src="https://i.postimg.cc/gk7J0Kfg/logo.jpg" alt="logo" />
             </span>
           </motion.div>
           <span className="text-xl font-bold text-gray-800 dark:text-white">
